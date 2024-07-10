@@ -1,3 +1,16 @@
-# demo_shopping_app
-flutter demo shopping just nothing no to  much in app
-By mistake, I named my project "Instagram," but I meant to name it something else and didn’t pay attention. So, right now, the name of my app is "Instagram," but otherwise, my app is a normal shopping app like Flipkart and Amazon, similar to an e-commerce app. I haven't added much to it, and there isn’t much fancy code or many edits. I have written the entire code on a single page because I was facing a lot of issues with importing files in Flutter, so I wrote the code on a single page.
+# instgram
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
